@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-image {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100vh;
+    text-align: center;
+}
+
+.container1 {
+    background-color: #ffffff;
+    height: 50vh;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.heading1 {
+    color: #f19116;
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 60px;
+}
+
+.paragraph1 {
+    font-size: 18px;
+    color: #7b8794;
+    font-weight: bold;
+}
+
+.button1 {
+    background-color: #f19116;
+    border-radius: 5px;
+    height: 50px;
+    width: 126px;
+    color: #ffffff;
+    margin-left: 0vh;
+    border-width: 0px;
+}
+
+.background-color {
+    background-color: #222222;
+    background-size: cover;
+    height: 380vh;
+    width: 100vh;
+}
+
+.heading2 {
+    font-size: 30px;
+    color: #f19116;
+    padding: 10px;
+
+}
+
+.container2 {
+    background-color: #ffffff;
+    height: 50vh;
+    width: 90vh;
+    margin-left: 5vh;
+    border-radius: 10px;
+}
+
+.image1 {
+    height: 50vh;
+    width: 30vh;
+
+}
+
+.part1 {
+    padding: 10px;
+    color: #0f0e46;
+}
+
+.heading3 {
+    font-size: 30px;
+}
+
+.paragraph3 {
+    color: #7b8794;
+
+}
+
+.container3 {
+    background-color: #ffffff;
+    height: 50vh;
+    width: 90vh;
+    margin-left: 5vh;
+    margin-top: 5vh;
+    border-radius: 10px;
+}
+
+.container4 {
+    background-color: #ffffff;
+    height: 50vh;
+    width: 90vh;
+    margin-left: 5vh;
+    margin-top: 5vh;
+    border-radius: 10px;
+}
+
+.button2 {
+    color: #ffffff;
+    background-color: #f19116;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 5vh;
+    height: 10vh;
+    width: 30vh;
+    border-width: 0px;
+}
+
+.background-image1 {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d1-img.png");
+    height: 150vh;
+    width: 100vh;
+    background-size: cover;
+}
+
+.container5 {
+    background-color: #222222;
+    height: 100vh;
+    width: 100vh;
+    color: #ffffff;
+}
+
+.heading4 {
+    color: #f19116;
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.paragraph4 {
+    margin-left: 10px;
+}
+
+.image3 {
+    margin-left: 10px;
+    background-image: cover;
+}
+
+.line {
+    padding: 30px;
+}
+
+.button4 {
+    border-radius: 10px;
+    background-color: #f19116;
+    color: #ffffff;
+    border-width: 0px;
+    margin-left: 30px;
+    height: 10vh;
+    width: 130px;
+}
+
+.background-image2 {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d3-img.png");
+    height: 150vh;
+    width: 100vh;
+    background-size: cover;
+}
